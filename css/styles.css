@@ -13,7 +13,7 @@ body{
     align-items: center;
     height: 900px;
     text-align: center;
-    background:url(images/library-wallpaper.jpg) no-repeat center center/ cover;
+    background:url(../images/library-wallpaper.jpg) no-repeat center center/ cover;
 }
 
 .container{
